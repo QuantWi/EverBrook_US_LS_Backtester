@@ -48,9 +48,11 @@ $$
 
 ![Bollinger Factor Performance](assets/bollinger.png)
 
+The chart below illustrates the backtester output for the Russell 3000 universe from 2016 to 2025, showing both the daily cumulative return and the Information Coefficient (IC) series of this technical factor. It demonstrates that the signal maintains an average predictive power above 0.05, indicating a momentum-like structure where past returns have forward-looking strength over the next 30 days.
 
-The chart (to be imported) illustrates Russell 3000 performance from 2015 to 2025, revealing a **momentum-like structure** — past returns exhibit predictive power for the next 30 days.  
-Top-basket outperformance and IC > 0.05 indicate this factor’s potential inclusion in composite signal construction.
+This visualization provides a clear view of which basket performs best, how performance evolves throughout the year, and how the factor behaves during market drawdowns. Notably, the factor experienced a larger drawdown in 2024 than the market itself — a sign of a potential momentum crash — yet it also exhibits cyclical recovery patterns, often mean-reverting in the short term and trending upward over longer horizons.
+
+While this factor alone may not be a stand-alone alpha, it helps guide how to combine it with other momentum factors to build a stronger and more robust composite model.
 
 ---
 
