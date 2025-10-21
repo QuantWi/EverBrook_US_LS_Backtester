@@ -8,7 +8,7 @@ Our goal is to create a robust framework for training future quantitative analys
 ## 📊 Quant Research Project Overview
 
 This repository contains **factor models** and **long–short backtesting engines** built and maintained in Google Colab.  
-It provides a complete workflow — from factor construction and normalization to portfolio optimization, monthly rebalancing, and performance evaluation.
+It provides a complete workflow — from factor construction and normalization to portfolio optimization, monthly rebalancing, and performance evaluation based on Russell 3000 stocks.
 
 ---
 
