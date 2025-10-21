@@ -41,12 +41,11 @@ It provides a complete workflow — from factor construction and normalization t
 
 The **Bollinger factor** is defined as:
 
-\[
-\text{Factor} = \frac{P - \text{Low}}{\text{High} - \text{Low}}
-\]
-where  
-\(\text{High} = \text{MA} + k \times \text{STD}\) and  
-\(\text{Low} = \text{MA} - k \times \text{STD}\).
+$$
+\text{Factor} = \frac{P - \text{Low}}{\text{High} - \text{Low}} \\
+\text{High} = \text{MA} + k \times \text{STD}, \quad \text{Low} = \text{MA} - k \times \text{STD}
+$$
+
 
 The chart (to be imported) illustrates Russell 3000 performance from 2015 to 2025, revealing a **momentum-like structure** — past returns exhibit predictive power for the next 30 days.  
 Top-basket outperformance and IC > 0.05 indicate this factor’s potential inclusion in composite signal construction.
