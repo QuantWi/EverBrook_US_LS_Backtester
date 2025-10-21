@@ -46,7 +46,7 @@ $$
 ,\ \quad \text{High} = \text{MA} + k \times \text{STD}, \quad \text{Low} = \text{MA} - k \times \text{STD}
 $$
 
-![Bollinger Factor Performance](assets/bolliger.png)
+![Bollinger Factor Performance](assets/bollinger.png)
 
 
 The chart (to be imported) illustrates Russell 3000 performance from 2015 to 2025, revealing a **momentum-like structure** — past returns exhibit predictive power for the next 30 days.  
