@@ -43,7 +43,7 @@ The **Bollinger factor** is defined as:
 
 $$
 \text{Factor} = \frac{P - \text{Low}}{\text{High} - \text{Low}} \\
-,\text{High} = \text{MA} + k \times \text{STD}, \quad \text{Low} = \text{MA} - k \times \text{STD}
+,\ \quad \text{High} = \text{MA} + k \times \text{STD}, \quad \text{Low} = \text{MA} - k \times \text{STD}
 $$
 
 
