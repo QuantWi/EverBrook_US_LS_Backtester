@@ -1,9 +1,5 @@
 # EverBrook_US_LS_Backtester
 
-Developed at **Columbia University** by a team of students specializing in **quantitative finance**, this project harnesses algorithmic modeling, data analytics, and machine learning to design and evaluate systematic investment strategies.  
-Our goal is to create a robust framework for training future quantitative analysts and portfolio engineers.
-
----
 
 ## 📊 Quant Research Project Overview
 
